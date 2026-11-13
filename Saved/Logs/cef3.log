@@ -1,35 +1,18 @@
-[8404:16572:1112/221433.403:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[8404:15720:1112/221433.442:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[8404:16572:1112/221433.457:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[8404:15720:1112/221436.387:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marco\OneDrive\Theo Consulting\Oportunidades\Metlife\Documentos\Projetos unity-github\GAMEJAM_EPIC\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marco\OneDrive\Theo Consulting\Oportunidades\Metlife\Documentos\Projetos unity-github\GAMEJAM_EPIC\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8404:15720:1112/221436.390:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marco\OneDrive\Theo Consulting\Oportunidades\Metlife\Documentos\Projetos unity-github\GAMEJAM_EPIC\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marco\OneDrive\Theo Consulting\Oportunidades\Metlife\Documentos\Projetos unity-github\GAMEJAM_EPIC\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8404:15720:1112/221436.393:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marco\OneDrive\Theo Consulting\Oportunidades\Metlife\Documentos\Projetos unity-github\GAMEJAM_EPIC\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marco\OneDrive\Theo Consulting\Oportunidades\Metlife\Documentos\Projetos unity-github\GAMEJAM_EPIC\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8404:15720:1112/221436.395:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marco\OneDrive\Theo Consulting\Oportunidades\Metlife\Documentos\Projetos unity-github\GAMEJAM_EPIC\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marco\OneDrive\Theo Consulting\Oportunidades\Metlife\Documentos\Projetos unity-github\GAMEJAM_EPIC\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8404:15720:1112/221436.760:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8404:15720:1112/221436.763:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14748:4548:1112/221437.659:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-F79819E95A6F23BAFFBE9414CC246A82 will be ignored
-[26304:23392:1112/222919.071:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-7031EFF8D929A6F4EC4A67A0898708C3 will be ignored
-[8404:16732:1112/223101.960:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,10]
-[8404:16572:1112/223102.286:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,10]
-[8404:16572:1112/223102.286:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,10]
-[8404:16572:1112/223102.286:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,10]
-[8404:16572:1112/223102.286:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,10]
-[8404:16572:1112/223102.288:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,13]
-[8404:16572:1112/223102.288:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,13]
-[8404:16572:1112/223102.288:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,13]
-[8404:16572:1112/223102.288:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,13]
-[8404:16572:1112/223104.651:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
-[8404:16572:1112/223104.652:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
-[23980:23476:1112/224321.094:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame C-72E4B8FEA25FCEB5DE0B5F63FBBC590B will be ignored
-[8404:16732:1112/224329.492:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,10]
-[8404:16572:1112/224329.699:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,10]
-[8404:16572:1112/224329.699:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,10]
-[8404:16572:1112/224329.699:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,10]
-[8404:16572:1112/224329.699:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,10]
-[8404:16572:1112/224329.766:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,13]
-[8404:16572:1112/224329.766:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,13]
-[8404:16572:1112/224329.766:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,13]
-[8404:16572:1112/224329.766:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,13]
-[8404:16572:1112/224330.853:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
-[8404:16572:1112/224330.854:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
-[8404:16572:1112/225459.722:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[20580:11660:1112/225923.232:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20580:19024:1112/225923.281:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[20580:11660:1112/225923.302:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[20580:2520:1112/225930.010:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marco\OneDrive\Theo Consulting\Oportunidades\Metlife\Documentos\Projetos unity-github\GAMEJAM_EPIC\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marco\OneDrive\Theo Consulting\Oportunidades\Metlife\Documentos\Projetos unity-github\GAMEJAM_EPIC\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20580:2520:1112/225930.014:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marco\OneDrive\Theo Consulting\Oportunidades\Metlife\Documentos\Projetos unity-github\GAMEJAM_EPIC\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marco\OneDrive\Theo Consulting\Oportunidades\Metlife\Documentos\Projetos unity-github\GAMEJAM_EPIC\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20580:2520:1112/225930.018:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marco\OneDrive\Theo Consulting\Oportunidades\Metlife\Documentos\Projetos unity-github\GAMEJAM_EPIC\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marco\OneDrive\Theo Consulting\Oportunidades\Metlife\Documentos\Projetos unity-github\GAMEJAM_EPIC\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20580:2520:1112/225930.020:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marco\OneDrive\Theo Consulting\Oportunidades\Metlife\Documentos\Projetos unity-github\GAMEJAM_EPIC\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marco\OneDrive\Theo Consulting\Oportunidades\Metlife\Documentos\Projetos unity-github\GAMEJAM_EPIC\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20580:2160:1112/225931.109:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20580:2160:1112/225931.112:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7356:26380:1112/225938.058:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B5A4BB3ED1A0BDF3780A21CEB3A3745B will be ignored
+[3312:9444:1112/225952.581:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[3312:13560:1112/225952.655:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[3312:13560:1112/225952.656:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[3312:13560:1112/225952.659:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[21456:18912:1112/230007.563:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 5
+[21456:18912:1112/230029.652:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 13
+[11220:10876:1112/230030.966:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[20580:11660:1112/231002.966:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
