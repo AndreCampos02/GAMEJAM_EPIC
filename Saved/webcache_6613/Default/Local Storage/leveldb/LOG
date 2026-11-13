@@ -1,2 +1,33 @@
-2026/11/12-21:52:32.604 5b7c Creating DB C:\Users\marco\OneDrive\Theo Consulting\Oportunidades\Metlife\Documentos\Projetos unity-github\GAMEJAM_EPIC\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2026/11/12-21:52:32.629 5b7c Reusing MANIFEST C:\Users\marco\OneDrive\Theo Consulting\Oportunidades\Metlife\Documentos\Projetos unity-github\GAMEJAM_EPIC\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/11/12-22:14:33.516 679c Reusing MANIFEST C:\Users\marco\OneDrive\Theo Consulting\Oportunidades\Metlife\Documentos\Projetos unity-github\GAMEJAM_EPIC\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/11/12-22:14:33.522 679c Recovering log #3
+2026/11/12-22:14:33.526 679c Reusing old log C:\Users\marco\OneDrive\Theo Consulting\Oportunidades\Metlife\Documentos\Projetos unity-github\GAMEJAM_EPIC\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/11/12-22:36:19.076 754 Level-0 table #5: started
+2026/11/12-22:36:19.087 754 Level-0 table #5: 83345 bytes OK
+2026/11/12-22:36:19.089 754 Delete type=0 #3
+2026/11/12-22:39:19.066 754 Level-0 table #7: started
+2026/11/12-22:39:19.073 754 Level-0 table #7: 70834 bytes OK
+2026/11/12-22:39:19.077 754 Delete type=0 #4
+2026/11/12-22:42:19.067 754 Level-0 table #9: started
+2026/11/12-22:42:19.075 754 Level-0 table #9: 70803 bytes OK
+2026/11/12-22:42:19.077 754 Delete type=0 #6
+2026/11/12-22:45:19.064 754 Level-0 table #11: started
+2026/11/12-22:45:19.076 754 Level-0 table #11: 71262 bytes OK
+2026/11/12-22:45:19.080 754 Delete type=0 #8
+2026/11/12-22:48:19.061 754 Level-0 table #13: started
+2026/11/12-22:48:19.067 754 Level-0 table #13: 70506 bytes OK
+2026/11/12-22:48:19.069 754 Delete type=0 #10
+2026/11/12-22:51:19.073 754 Level-0 table #15: started
+2026/11/12-22:51:19.078 754 Level-0 table #15: 70739 bytes OK
+2026/11/12-22:51:19.080 754 Delete type=0 #12
+2026/11/12-22:51:19.081 754 Compacting 4@0 + 1@1 files
+2026/11/12-22:51:19.090 754 Generated table #16@0: 3 keys, 23660 bytes
+2026/11/12-22:51:19.090 754 Compacted 4@0 + 1@1 files => 23660 bytes
+2026/11/12-22:51:19.091 754 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/12-22:51:19.092 754 Delete type=2 #7
+2026/11/12-22:51:19.093 754 Delete type=2 #9
+2026/11/12-22:51:19.093 754 Delete type=2 #11
+2026/11/12-22:51:19.093 754 Delete type=2 #13
+2026/11/12-22:51:19.093 754 Delete type=2 #15
+2026/11/12-22:54:19.076 754 Level-0 table #18: started
+2026/11/12-22:54:19.081 754 Level-0 table #18: 70782 bytes OK
+2026/11/12-22:54:19.083 754 Delete type=0 #14

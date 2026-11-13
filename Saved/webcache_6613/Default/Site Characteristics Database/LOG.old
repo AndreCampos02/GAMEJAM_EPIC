@@ -1,5 +1,1 @@
-2026/11/12-21:52:32.473 5410 Log #3: 2 ops saved to Table #4 OK
-2026/11/12-21:52:32.476 5410 Archiving C:\Users\marco\OneDrive\Theo Consulting\Oportunidades\Metlife\Documentos\Projetos unity-github\GAMEJAM_EPIC\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/11/12-21:52:32.479 5410 Table #4: 2 entries OK
-2026/11/12-21:52:32.481 5410 Archiving C:\Users\marco\OneDrive\Theo Consulting\Oportunidades\Metlife\Documentos\Projetos unity-github\GAMEJAM_EPIC\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/11/12-21:52:32.487 5410 **** Repaired leveldb C:\Users\marco\OneDrive\Theo Consulting\Oportunidades\Metlife\Documentos\Projetos unity-github\GAMEJAM_EPIC\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 179 bytes. Some data may have been lost. ****
+2026/11/12-21:52:32.500 5410 Reusing MANIFEST C:\Users\marco\OneDrive\Theo Consulting\Oportunidades\Metlife\Documentos\Projetos unity-github\GAMEJAM_EPIC\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
