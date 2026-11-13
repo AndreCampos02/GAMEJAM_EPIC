@@ -1,7 +1,29 @@
+# Visual Studio / IDEs
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.user
+*.userprefs
 
-**/Binaries/
-**/DerivedDataCache/
-**/Intermediate/
-**/Saved/
-**/Build/
-**/webcache*/
+# Pastas de Cache e Compilacao da Unreal
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+Platforms/*/Intermediate/
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# Arquivos temporarios e logs
+*.log
+*.tmp
+*.bak
+*.db
+Thumbs.db
